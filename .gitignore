@@ -1,0 +1,4 @@
+*.orig
+admin.html
+admin/
+themes/default/js/jparallax
