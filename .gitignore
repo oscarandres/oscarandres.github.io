@@ -1,6 +1,1 @@
-*.orig
-admin.html
-admin/
-themes/default/js/jparallax
-/nbproject/private/
-/nbproject/
+.idea/
