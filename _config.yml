@@ -1,13 +1,12 @@
-theme: console-theme  # Set the theme name to 'console-theme'
+remote_theme: b2a3e8/jekyll-theme-console
 
-# Jekyll site settings
-source: .
-destination: _site
-title: "Software Expert"  # Replace with your name or title
-description: "Your expertise in software development"  # Add a brief description
-baseurl: ""  # If deploying to a custom domain, set the base URL here
+header_pages:
+  - index.md
+  - about.md
 
-# Jekyll defaults
-gems: [jekyll-sass-converter]
-sass:
-  style: compressed
+style: dark # dark (default), light or hacker
+listen_for_clients_preferred_style: true # false (default) or true
+
+footer: 'follow us on <a href="https://twitter.com/xxx">twitter</a>'
+
+google_analytics: UA-NNNNNNNN-N
