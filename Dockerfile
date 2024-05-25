@@ -1,20 +1,10 @@
-FROM jekyll/jekyll:latest as build
+FROM jekyll/jekyll:4.2.2
 
 WORKDIR /srv/jekyll
+COPY Gemfile* ./
+RUN bundle install
+COPY . .
+RUN ruby bin/generate_tags.rb
+RUN ruby bin/generate_categories.rb
 
-ADD . /srv/jekyll
-
-RUN gem install bundler && \
-    rm -rf Gemfile.lock && \
-    chmod -R 777 ${PWD} && \
-    bundle update && \
-    bundle install
-    # jekyll build && \
-    # jekyll serve --livereload --drafts --trace
-
-ARG build_command
-ENV BUILD_COMMAND ${build_command}
-
-CMD ${BUILD_COMMAND}
-
-# EXPOSE 4000
+CMD ["jekyll", "serve", "--watch", "--host", "0.0.0.0", "--config", "_config.yml"]

@@ -1,5 +1,11 @@
+<!-- Footer Start -->
+
 <footer>
-    <p> Powered by<a href="https://github.com/sujaykundu777/devlopr-jekyll"> devlopr jekyll</a>. Hosted with <a href="https://pages.github.com">Github Pages</a>. Subscribe via
-        <a href="{{ " /feed.xml " | prepend: site.baseurl }}">RSS</a>
-    </p>
+  {% include social-buttons.html %}
+
+  <div class="container text-center">
+    <p>Copyright &copy; {{ site.author }} {{ site.time | date: "%Y" }}</p>
+  </div>
 </footer>
+
+<!-- Footer End -->
