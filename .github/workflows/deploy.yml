@@ -15,8 +15,8 @@ jobs:
 
       - name: get deployment target
         run: |
-          TARGET=$(cat DEPLOY_STRATEGY)
-          echo "TARGET=$TARGET" >> $GITHUB_ENV
+#          TARGET=$(cat DEPLOY_STRATEGY)
+          echo "TARGET=gh-pages" >> $GITHUB_ENV
 
       - name: check if target is valid
         if: success() && !contains(fromJSON('["gh-pages", "firebase", "none"]'), env.TARGET)
