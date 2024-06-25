@@ -1,0 +1,8 @@
+name: Deploy Site
+run-name: ${{ github.actor }} is deploying
+on:
+  push:
+    branches: [ master ]
+jobs:
+  docsify-action:
+    uses: tool3/docsify-action@v1.0.3
