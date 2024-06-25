@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45a4828e-bff0-4aef-a169-43caca9a46ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/_coverpage.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_media/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv/english_version.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts/2024-06-21-develop-golang-with-neovim.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.all-contributorsrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.buildconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.firebaserc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.forestry/settings.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/FUNDING.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/custom.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature_request.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/dependabot.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/img/android.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/img/desktop.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/img/ios.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/img/mobile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/codeql-analysis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/greetings.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/jekyll-gh-pages.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/markdownlint-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.markdownlint.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.prettierrc.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ruby-version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/color-browser.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/comments.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/navigation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/pagination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/post-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/share.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/social-buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/timeline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/web-app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/category.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/tag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-06-10-contact-tutorial.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-06-11-social-buttons-tutorial.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-06-12-timeline-tutorial.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-06-19-writing-posts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-06-20-blog-tutorial.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-06-22-web-app-mode.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-06-24-intro-layout-tutorial.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-06-25-initial-setup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-06-27-welcome.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/generate_categories.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/generate_tags.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/new_post.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/tech.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/everforest.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/grayscale.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/rrssb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/timeline.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/author.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/black-lab-glass.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/intro-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/jetpacktocat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/labtocat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/baracktocat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/timeline/spidertocat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/web-app/icon-144p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/web-app/icon-192p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/web-app/icon-36p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/web-app/icon-48p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/web-app/icon-72p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/web-app/icon-96p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/tutorial.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/timeline.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2gwd5vjcfEEHP3XgBOsoltrPwJH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feat/docsify-option&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/oscarandresmonroy/projects/oscarandres.github.io/_layouts&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_layouts" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_media" />
+      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45a4828e-bff0-4aef-a169-43caca9a46ef" name="Changes" comment="" />
+      <created>1716612393828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716612393828</updated>
+    </task>
+    <servers />
+  </component>
+</project>
