@@ -6,7 +6,7 @@ on:
       - master
 jobs:
   regenerate-docsify:
-    runs-on: alpine-latest
+    runs-on: ubuntu-latest
     steps:
       - run: echo "getting master"
       - uses: actions/checkout@master
