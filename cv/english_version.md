@@ -1,123 +1,134 @@
+<style>
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+</style>
 
-Oscar Andrés Monroy
-=======================
-##### Tech Lead at Mercado Libre
-###### Ciudad Autónoma de Buenos Aires, Argentina
+# Oscar Andrés Monroy
+oscar.andres.monroy@gmail.com
+### Ciudad Autónoma de Buenos Aires, Argentina
 
------------------------
 
 About me
 -----------------------
-Soy Oscar Andrés Monroy, Technical Lead en MercadoLibre, con más de 18 años de experiencia en proyectos de software en diversas industrias, incluyendo comercio, logística, academias de estudio y herramientas de software. Poseo un Máster en Data Science, una licenciatura en Matemáticas y una en Informática-Matemática, además de formación en Coaching Ontológico Sistémico.
+I'm Oscar Andrés Monroy, I currently works as Tech Lead in Mercadolibre, with 18+ years of expirience on software projects of various industries, like commerce, logistics, study academies and software tools. I'm master on data Science, with a Degrees on pure maths and maths and computer science, as well as being an ontological coach.
 
-A lo largo de mi carrera, he trabajado en empresas destacadas como Globant para Riot Games (creador de League of Legends), MercadoLibre y Tiendanube, entre otras. Mi experiencia incluye la resolución de problemáticas complejas basadas en matemáticas utilizando diversos lenguajes de programación como Golang, Java y PHP. Además, diseño e implemento arquitecturas de microservicios para soluciones en la industria.
+Throughout my professional career, I had worked on outstanding companies such as Globant(Riot Games client), Mercadolibre, Tiendanube, between more.  My experience includes complex problems resolutions based on maths using different technologies as Golang, Java, PHP, bewteen others.  Additionally, I like to design and implement microservices architectures base on the latest industries solutions. 
 
-Tengo una sólida experiencia liderando equipos de software de distintos niveles de seniority, enfocándome en guiar y motivar a mis equipos para alcanzar soluciones más grandes y eficientes que las que puede lograr una sola persona. Me apasionan los desafíos de algoritmos complejos, especialmente cuando involucran aplicaciones matemáticas.
+I have solid experience leading software teams with any kind of seniority focusing on support and motivate them to reach large and efficient solutions. I really love the challenges with complex solutions, specially if I have to use mathematical concepts.
 
-Mi motivación principal radica en enfrentar y superar estos desafíos, así como en liderar equipos técnicos para alcanzar metas ambiciosas y contribuir al crecimiento y éxito de los proyectos en los que participo.
+My main motivation lies in facing and overcoming these challenges, as well as in leading technical teams to achieve ambitious goals and contribute to the growth and success of the projects in which I participate.
 
-
------------------------
 
 Professional Experience
 -----------------------
-> ### Technical Leader Productivity Engineer
-> - Mercado Libre
-> - January 2021 until now
-> - Buenos Aires, Argentina
 
-> ### Tiendanube
-> - PHP Developer
-> - November 2019 - January 2021
-> - Buenos Aires, Argentina
+<div class="wrapper">
+<div>
 
-> ### DigBang
-> - Full-stack Developer
-> - November 2016 - November 2019
-> - Buenos Aires, Argentina
+> ### Software Technical Leader  :argentina:
+> **Mercado Libre**, January 2021 until now
 
-> ### Mobile Streams
-> - Programador Senior
-> - September 2014 - November 2016
-> - Buenos Aires, Argentina
+</div>
+<div>
 
-> ### Lyracons - eCommerce Solutions
-> - Core PHP Developer
-> - June 2013 - September 2014
-> - Buenos Aires, Argentina
+> ### PHP Senior Developer :argentina:
+> **Tiendanube**, November 2019 - January 2021
 
-> ### Globant(Riot Games Client)
-> - Php Developer Semisenior Advanced
-> - March 2012 - June 2013
-> - Buenos Aires, Argentina
+</div>
 
-> ### Livra.com
-> - Project leader and developer PHP
-> - August 2010 - March 2012
-> - Buenos Aires, Argentina
+<div>
 
-> ### Socialtics Ltda.
-> - Consultor tecnologías
-> - May 2009 - March 2010
-> - Bogotá, Colombia
+> ### Full-stack Developer :argentina:
+> **DigBang**, November 2016 - November 2019<br>&nbsp;
 
-> ### Fundación Hetah
-> - Desarrollador software
-> - October 2008 - March 2009
-> - Bogotá, Colombia
+</div>
+<div>
 
-> ### Taurus Logistics Colombia S.A.
-> - IT Developer
-> - March 2007 - September 2008
-> - Bogotá, Colombia
+> ### Senior Developer :argentina:
+> **Mobile Streams**, September 2014 - November 2016
 
-> ### Sinfin Creativo Ltda
-> - Desarrollador software
-> - February 2008 - March 2008
-> - Bogotá, Colombia
+</div>
+<div>
 
-> ### Sinfin Creativo Ltda
-> - Desarrollador software
-> - February 2007 - April 2007
-> - Bogotá, Colombia
+> ### Core PHP Developer :argentina:
+> **Lyracons - eCommerce Solutions**, June 2013 - September 2014
 
-> ### Ingeominas(Instituto Colombiano de Geología y Minería)
-> - Contratista
-> - November 2005 - January 2007
-> - Bogotá, Colombia
+</div>
+<div>
 
-> ### Sinfin Creativo Ltda
-> - Desarrollador Software
-> - March 2006 - July 2006
-> - Bogotá, Colombia
+> ### Php Developer Ssr Advanced :argentina:
+> **Globant(Riot Games Client)**, March 2012 - June 2013
 
----
+</div>
+<div>
+
+> ### Project leader PHP :argentina:
+> **Livra.com**, August 2010 - March 2012
+
+</div>
+<div>
+
+> ### Technology Consultor :colombia:
+> **Socialtics Ltda.**, May 2009 - March 2010
+
+</div>
+<div>
+
+> ### Software Developer :colombia:
+> **Fundación Hetah**, October 2008 - March 2009
+
+</div>
+<div>
+
+> ### IT Developer :colombia:
+> **Taurus Logistics Colombia S.A.**, March 2007 - September 2008
+
+</div>
+<div>
+
+> ### Software Developer :colombia:
+> **Sinfin Creativo Ltda**, February 2008 - March 2008
+
+</div>
+<div>
+
+> ### Software Developer :colombia:
+> **Sinfin Creativo Ltda**, February 2007 - April 2007
+
+</div>
+<div>
+
+> ### Contratista :colombia:
+> **Ingeominas(Instituto Colombiano de Geología y Minería)**, November 2005 - January 2007
+
+</div>
+<div>
+
+> ### Software Developer :colombia:
+> **Sinfin Creativo Ltda**, March 2006 - July 2006<br>&nbsp;<br>&nbsp;
+
+</div>
+</div>
+
 
 ## Academic Education
 
 ### Hard skills
 
-> #### Master en Data Mining and Knowledge Management
-> - 2010 - 2018
-> - Universidad Austral
-> - Buenos Aires, Argentina
+> #### Master en Data Mining and Knowledge Management :argentina:
+> **Universidad Austral**, 2010 - 2018
 
-> #### Licenciatura en Matemática (University Graduate in Maths)
-> - Pontificia Universidad Javeriana
-> - 2001 - 2008
-> - Bogotá, Colombia
+> #### University Degree in Maths :colombia:
+> **Pontificia Universidad Javeriana**, 2001 - 2008
 
-> #### Informático Matemático (University Graduate in Maths and Computer Science)
-> - Pontificia Universidad Javeriana
-> - 2001 - 2006
+> #### University Graduate in Maths and Computer Science :colombia:
+> **Pontificia Universidad Javeriana**, 2001 - 2006
 
 ### Soft Skills
-> #### English Training C1
-> - March 2020 - November 2021
-> - Centro Universitario de Idiomas
-> - Buenos Aires, Argentina
+> #### English Training C1 :argentina:
+> **Centro Universitario de Idiomas**, March 2020 - November 2021
 
-> #### Coaching Ontológico Sistemico (Ontological coaching)
-> - March 2020 - November 2021
-> - Consultora Alas
-> - Buenos Aires, Argentina
+> #### Ontological Coach :argentina:
+> **Consultora Alas**, March 2020 - November 2021
