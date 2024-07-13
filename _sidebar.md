@@ -1,4 +1,4 @@
 * [Home](/)
 * [About](/about)
 * [Posts](/posts/index)
-  * [My personal vim setting for Go](posts/2024-06-21-develop-golang-with-neovim.md)
+  * [Serving html pages with Go](posts/2024-07-13-serving-html-with-go.md)
