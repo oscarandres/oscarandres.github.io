@@ -1,3 +1,10 @@
+---
+meta:
+  title: "Serving html pages with Go"
+  description: "How to server html pages with go"
+  keywords: "go, golang, html, serve, start with go, hello world, hello world page with go, hello world page with golang"
+---
+
 # Serving html pages with Go
 
 ## Create and html file
